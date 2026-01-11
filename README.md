@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Deniz!</h1>
 <h3 align="center">A Passionate Software Developer | Computer Engineering Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denizozaltay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### About Me
@@ -67,15 +63,3 @@ I'm a Computer Engineering student at Istanbul Beykent University, passionate ab
 </p>
 
 </div>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denizozaltay&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizozaltay&layout=compact&theme=radical" alt="Top Languages" />
-</p>
